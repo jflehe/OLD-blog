@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on De l&#39;informatique, mais pas que ...</title>
+    <link>http://jflehe.github.io/post/</link>
+    <description>Recent content in Posts on De l&#39;informatique, mais pas que ...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>FR-fr</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Tue, 05 Jan 2016 21:47:10 +0100</lastBuildDate>
+    <atom:link href="http://jflehe.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Blockchain la face cachée du bitcoin</title>
+      <link>http://jflehe.github.io/post/Blockchain/</link>
+      <pubDate>Tue, 05 Jan 2016 21:47:10 +0100</pubDate>
+      
+      <guid>http://jflehe.github.io/post/Blockchain/</guid>
+      <description>
+
+&lt;p style=&#39;text-align: justify;&#39;&gt;
+Le Bitcoin vous connaissez, c&#39;est cette monnaie dématérialisée, et bien blockchain c&#39;est la brique technique qui assure le fonctionnement des échanges monnaitaire.
+A mon sens les blockchains vont induire de réels changements (d&#39;içi 2 à 3 ans) sur la façon dont nous consommateurs, citoyens, nous allons faire nos achats ou nos démarches admininstratives sur internet. &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;bitcoin:0828451e87fed13cd328230811357049&#34;&gt;Bitcoin&lt;/h2&gt;
+
+&lt;h3 id=&#34;les-différences-avec-une-monnaie-traditionnelle:0828451e87fed13cd328230811357049&#34;&gt;les différences avec une monnaie traditionnelle&lt;/h3&gt;
+
+&lt;p style=&#39;text-align: justify;&#39;&gt;
+Le bitcoin est une monnaie créé e 2009, pas de pièces ni de billets, c&#39;est une monnaie virtuelle.
+Son utilisation se limite aujourd&#39;hui aux échanges en lignes - de personnes à personnes ou sur des sites de ventes (en france showroomprive.com entre autre permet de régler en bitcoin).
+&lt;/p&gt; &lt;p style=&#39;text-align: justify;&#39;&gt;
+ Ce qui rend le bitcoin si différent des autres moyens de paiement c&#39;est qu&#39;il est décentralisé, il n&#39;y a pas d&#39;autorité centrale. Pour l&#39;euro c&#39;est la banque centrale européenne qui régit, et contrôle l&#39;émission des devises. Pour le bitcoin c&#39;est un algorithme qui émet de façon tout à fait prédictive de nouveaux bitcoin, la limite a été fixé à 21 millions.
+&lt;/p&gt;
+
+&lt;h3 id=&#34;le-défi-pour-que-le-systéme-fonctionne:0828451e87fed13cd328230811357049&#34;&gt;le défi pour que le systéme fonctionne&lt;/h3&gt;
+
+&lt;p&gt;Il faut donc pouvoir tracer de façon&lt;/p&gt;
+
+&lt;h2 id=&#34;blockchain:0828451e87fed13cd328230811357049&#34;&gt;Blockchain&lt;/h2&gt;
+
+&lt;p&gt;qq&lt;/p&gt;
+
+&lt;h3 id=&#34;le-principe-de-base:0828451e87fed13cd328230811357049&#34;&gt;le principe de base&lt;/h3&gt;
+
+&lt;p&gt;Blockchain, ou littérallement chaine de blocs, il s&amp;rsquo;agit plutôt d&amp;rsquo;un réseau ou&lt;/p&gt;
+
+&lt;h3 id=&#34;dans-le-détail:0828451e87fed13cd328230811357049&#34;&gt;dans le détail&lt;/h3&gt;
+
+&lt;p&gt;ss
+qq&lt;/p&gt;
+
+&lt;h3 id=&#34;les-applications-futurs:0828451e87fed13cd328230811357049&#34;&gt;les applications futurs&lt;/h3&gt;
+
+&lt;p&gt;Au delà des monnaies numériques, l&amp;rsquo;idée forte qui se cache derrière l&amp;rsquo;ensemble des mécanismes mis on oeuvre c&amp;rsquo;est qu&amp;rsquo;un système automatisé peut par sa construction être de confiance.&lt;p&gt;
+Les domaines d&amp;rsquo;applications sont multiples, globalement tous les types de registres peuvent tirer parti des blockchain :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;registre du commerce&lt;/li&gt;
+&lt;li&gt;échanges boursier&lt;/li&gt;
+&lt;li&gt;enregistrement de titres ou diplômes&lt;/li&gt;
+&lt;li&gt;gestion / dépots de marque&lt;/li&gt;
+&lt;li&gt;droits sur la création numérique&lt;/li&gt;
+&lt;li&gt;titre de propriété (livre foncier)&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;PLus proche de l&amp;rsquo;infrastructure informatique, un autre type d&amp;rsquo;utilisation des blockchain concernes la gestion d&amp;rsquo;enregistrements technique :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;DHCP&lt;/li&gt;
+&lt;li&gt;DNS&lt;/li&gt;
+&lt;li&gt;gestion de l&amp;rsquo;identité&lt;/li&gt;
+&lt;li&gt;traces d&amp;rsquo;audit d&amp;rsquo;environnement &amp;ldquo;sensible&amp;rdquo; (contrôle d&amp;rsquo;accès)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;conclusion:0828451e87fed13cd328230811357049&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p style=&#39;text-align: justify;&#39;&gt;
+Vous l&#39;aurez compris les blockchains ne seront pas uniquement utilisé pas le monde des finances. Même si les premières applications seront banquaires. Elles arriveront un peu partout sous une forme ou une autre.
+Evidemment tous ceci ne sera pas visible de l&#39;utilisateur finale, mais contribuera largement à créer des applications de confiance. Peut être que dans un futur proche, avant de faire un achat en ligne, on vérifiera le logo de la blockchain qui servira à sécuriser/stocker les échanges. This site is trusted &amp;     driven by the xxx blockchain
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
